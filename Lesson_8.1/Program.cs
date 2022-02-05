@@ -24,6 +24,7 @@ namespace Lesson_8._1
             {
                 Console.Write($"{e} ");
             }
+            Console.WriteLine("Yra");
             Console.ReadKey();
         }
     }
